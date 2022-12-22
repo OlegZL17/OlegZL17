@@ -6,7 +6,7 @@
 </h1>
 </div>
 
-### :man_technologist: About Me : :
+### :man_technologist: About Me :
 <div>
   <p></p>
   <p>Hi, I'm a beginer Python Developer from Ukraine.</p>
